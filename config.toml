@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://duofilm18.github.io"
 title = "HUGO.386"
-languageCode = "en"
-DefaultContentLanguage = "en" # Change this to change the site's language
+languageCode = "zh_tw"
+DefaultContentLanguage = "zh_tw" # Change this to change the site's language
 theme = "hugo.386"
 preserveTaxonomyNames = true
 
@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
     mainpagetitle = "HUGO.386"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome to the early 90s!" 
+    mainpagesubtitle = "Welcome to the early 90s!"
 
     # The description of your website. It will be displayed in the home page
     mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
@@ -35,10 +35,10 @@ preserveTaxonomyNames = true
     loadfastload = false
 
     # Sets the speed for the page loading effect. Default is 1.0.
-    loadspeedfactor = 1.0
+    loadspeedfactor = 5.0
 
     # Enables or disables the second flyby cursor. Default is false.
-    loadonepass = false
+    loadonepass = true
 
 [menu]
   # This displays buttons in the navbar to access your contents
