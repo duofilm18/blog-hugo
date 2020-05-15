@@ -1,5 +1,5 @@
-baseURL = "https://duofilm18.github.io"
-title = "HUGO.386"
+baseURL = "https://duofilm18.github.io/"
+title = "國王的程式碼紀錄"
 languageCode = "zh_tw"
 DefaultContentLanguage = "zh_tw" # Change this to change the site's language
 theme = "hugo.386"
@@ -7,10 +7,10 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "HUGO.386"
+    mainpagetitle = "我的程式碼紀錄"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome to the early 90s!"
+    mainpagesubtitle = "記一些應該要紀錄的東西!"
 
     # The description of your website. It will be displayed in the home page
     mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."

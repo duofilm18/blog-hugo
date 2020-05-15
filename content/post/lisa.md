@@ -1,8 +1,8 @@
 +++
 author = "Duofilm"
-title = "{{ replace .Name "-" " " | title }}"
+title = "Lisa"
 description = ""
-date = {{ .Date }}
+date = 2020-05-14T22:22:41+08:00
 draft = false
 tags = ["",]
 categories = ["",]
