@@ -1,10 +1,10 @@
 +++
 author = "Duofilm"
-title = "Hugo Server"
+title = "Hugo Git FTP  Deploy to Shared Hosting"
 date = 2020-05-15T15:56:32+08:00
 description = "hugo要開始server後面加的文字"
 draft = false
-tags = ["hugo",]
+tags = ["hugo","ftp","deploy"]
 categories = ["hugo",]
 +++
 ### hugo server

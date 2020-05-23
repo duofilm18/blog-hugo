@@ -11,11 +11,12 @@ categories = ["laravel",]
 
 - [document of homestead](http://bit.ly/2FwQ7EZ)
 
-You shoud read the document carefully before you use it.
+在安裝的時候，請詳細閱讀上面的教學document
 
 #### set up ~/Homestead/Homestead.yaml
 
 
 #### Lambo scrip
+使用lambo協助設定在homestead之下的laravel環境設定
 
 [Lambo](http://bit.ly/2TCcQo8)
